@@ -1,4 +1,4 @@
-This GUI aplication has a lot of bugs i will try to fix them in the future.
+This GUI aplication has 2 bugs i will try to fix them in the future.
 The bugs are:
 Can't do the operations with more that 2 numbers.
 Cant't do the operations with float numbers.
